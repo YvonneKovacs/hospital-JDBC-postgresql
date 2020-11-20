@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.osgi-3.8.0.v20120529-1548">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.osgi-3.8.0.v20120529-1548.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

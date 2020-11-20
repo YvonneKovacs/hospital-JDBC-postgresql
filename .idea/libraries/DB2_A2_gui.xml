@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DB2_A2-gui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DB2_A2-gui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
